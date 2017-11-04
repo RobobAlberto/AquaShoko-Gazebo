@@ -1773,7 +1773,7 @@
       </joint>
       <static>0</static>
       <allow_auto_disable>1</allow_auto_disable>
-      <plugin name='roboControl' filename='libroboControl.so'/>
+      <plugin name='roboControl' filename='/home/student/projects/AquaShoko-Gazebo/build/libroboControl.so'/>
       <pose frame=''>0.088683 -0.037253 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
